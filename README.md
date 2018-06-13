@@ -13,8 +13,8 @@ LIRI uses the following node packages:
 
 # Instructions for use:
 
-Search for tweets using ```node liri my-tweets```
-Search for movies using ```node liri read-file file-name.txt```
-Search for a spotify song using ```node liri spotify song-name```
+* Search for tweets using ```node liri my-tweets```
+* Search for movies using ```node liri read-file file-name.txt```
+* Search for a spotify song using ```node liri spotify song-name```
 
 # Enjoy! 
