@@ -2,6 +2,8 @@
 
 LIRI is a CLI node app which performs tasks such as searching databases using APIs and logging out the results. 
 
+A video demonstration of the node app can be found here: https://drive.google.com/file/d/1Djm-p-Si5-4v4sNjY4bjQLLLtw862WIn/view
+
 LIRI uses the following node packages: 
 
 * Twitter
